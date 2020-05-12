@@ -1,0 +1,19 @@
+[ {
+  "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+  "nombre" : "Estefania Gonzalez",
+  "subtitulo" : "Instructor",
+  "twitter" : "@estefania-gz",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f5210.appspot.com/o/team-2.jpg?alt=media&token=9cacfa82-dcac-45cb-8697-4af5b9e78108"
+}, {
+  "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+  "nombre" : "Esteban Dimartino",
+  "subtitulo" : "Diseñador",
+  "twitter" : "@dimartino",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f5210.appspot.com/o/team-3.jpg?alt=media&token=bfa0838c-4ec3-4feb-ab32-561349c5b384"
+}, {
+  "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "nombre" : "Tyrion Gozalez",
+  "subtitulo" : "Bebe",
+  "twitter" : "@tyrionmonzon",
+  "url" : "https://firebasestorage.googleapis.com/v0/b/angular-html-f5210.appspot.com/o/team-1.jpg?alt=media&token=503b3b9e-0a01-4591-b469-586bacc40f36"
+} ]
